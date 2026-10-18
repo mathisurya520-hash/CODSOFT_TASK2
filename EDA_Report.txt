@@ -1,0 +1,26 @@
+
+CODSOFT DATA SCIENCE INTERNSHIP
+TASK 2: EXPLORATORY DATA ANALYSIS
+1. Dataset Overview
+- Total transactions: 1000
+- Total columns: 9
+- Missing values: 0
+- Duplicate records: 0
+2. Descriptive Statistics
+- Average customer age: 41.39
+- Average transaction amount: 456.00
+- Total revenue: 456000.00
+3. Key Findings
+- Most frequent product category: Clothing
+- Most frequent gender in transactions: Female
+4. Data Preparation
+- Converted Date column to datetime format.
+- Examined descriptive statistics and distributions.
+- Created visualizations to explore sales patterns.
+- Used boxplots to identify potential outliers.
+- Analyzed relationships between numerical variables.
+5. Conclusion
+The exploratory analysis provides an overview of customer
+transactions, product categories, purchasing amounts, and
+customer demographics. These insights can support further
+business analysis and marketing decisions.
